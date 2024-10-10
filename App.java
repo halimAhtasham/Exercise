@@ -11,7 +11,7 @@ public class App {
             System.out.println(i);
         }*/
         /*
-         * for (int i = 0; i < yourArray.length; i++) {
+            for (int i = 0; i < yourArray.length; i++) {
             System.out.println(yourArray[i]);
         }
          */
