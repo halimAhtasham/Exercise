@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class App {
     public static void main(String[] args) {
         // double [] b = new double [10];
-        int [] myArray = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};
+        int [] myArray = {10, 20, 30, 40, 50, 60,  70, 80, 90, 100};
         int [] yourArray = new int [10];
 
         System.arraycopy(myArray, 0, yourArray, 0, 10);
