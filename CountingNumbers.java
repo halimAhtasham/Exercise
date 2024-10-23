@@ -6,7 +6,6 @@ public class CountingNumbers {
 
         System.out.println("Enter number: ");
         int number = input.nextInt();
-
         int temp, remainder, sum = 0;
         temp = number;
         while (temp > 0) {
