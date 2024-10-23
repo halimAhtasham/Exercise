@@ -9,7 +9,6 @@ public class CountingNumbers {
 
         int temp, remainder, sum = 0;
         temp = number;
-
         while (temp > 0) {
             remainder = temp % 10;
             // if (remainder == 3) {
